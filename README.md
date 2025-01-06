@@ -5,13 +5,11 @@ This repo was inspired by article '<i>Learn how to implement coding best practic
 by  Marcello Politi - Published in  Towards Data Science Nov 21, 2024.<br><br>
 
 The article describes OOP approach towards inheritance in ML projects. It depicts LogisticRegressionModel and RandomForestModel classes.  The 
-aim of this repository is to extend this effort to the following models:<br>
+aim of this repository is to  1) extend this effort to other models  2) use different datasets with varying complexities to understand effect on performance. 3) define additional abstract class to plot charts for clarity when and if is needed.  The additional models are: <br>
 **1. Linear Models**<br>
-•	Logistic Regression<br>
 •	Linear Discriminant Analysis (LDA)<br>
 **2. Tree-Based Models**<br>
 •	Decision Trees<br>
-•	Random Forest<br>
 •	Gradient Boosting (e.g., XGBoost, LightGBM, CatBoost)<br>
 **3. Ensemble Methods**<br>
 •	Bagging Classifier<br>
